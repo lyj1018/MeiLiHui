@@ -1,0 +1,57 @@
+[
+                {
+                    id:1,
+                    img:'https://cdn13.mei.com/product/V2T-401-00011/2caee052ccda06e22850bb5d66344b1e.jpg@300w_400h_2e_75q',
+                    titleo:'欧洲直发',
+                    titlet:'买手推荐',
+                    infoo:'MARNI',
+                    infot:'MARNI 红色牛皮女士斜挎包',
+                    priceo:'￥14,371',
+                    pricet:'￥17,900',
+                    discount:'8.1折'
+                },
+                {
+                    id:2,
+                    img:'https://cdn13.mei.com/product/VAZ-112-00001/cbb8429dfaf546fee187e81117a5304e.jpg@300w_400h_2e_75q',
+                    titleo:'欧洲直发',
+                    titlet:'买手推荐',
+                    infoo:'MARNI',
+                    infot:'MARNI 红色牛皮女士斜挎包',
+                    priceo:'￥14,371',
+                    pricet:'￥17,900',
+                    discount:'7.1折'
+                },
+                {
+                    id:3,
+                    img:'https://cdn15.mei.com/product/V1V-145-00015/0ddb1405d1e7d6b9e53cd243b5353c28.jpg@300w_400h_2e_75q',
+                    titleo:'欧洲直发',
+                    titlet:'买手推荐',
+                    infoo:'MARNI',
+                    infot:'MARNI 红色牛皮女士斜挎包',
+                    priceo:'￥10,371',
+                    pricet:'￥7,900',
+                    discount:'5.1折'
+                },
+                {
+                    id:4,
+                    img:'https://cdn15.mei.com/product/V1V-145-00015/0ddb1405d1e7d6b9e53cd243b5353c28.jpg@300w_400h_2e_75q',
+                    titleo:'欧洲直发',
+                    titlet:'买手推荐',
+                    infoo:'MARNI',
+                    infot:'MARNI 红色牛皮女士斜挎包',
+                    priceo:'￥14,371',
+                    pricet:'￥17,900',
+                    discount:'8.1折'
+                },
+                {
+                    id:5,
+                    img:'https://cdn15.mei.com/product/V1V-145-00015/0ddb1405d1e7d6b9e53cd243b5353c28.jpg@300w_400h_2e_75q',
+                    titleo:'欧洲直发',
+                    titlet:'买手推荐',
+                    infoo:'MARNI',
+                    infot:'MARNI 红色牛皮女士斜挎包',
+                    priceo:'￥14,371',
+                    pricet:'￥17,900',
+                    discount:'8.1折'
+                }
+            ]
